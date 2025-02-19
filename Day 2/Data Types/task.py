@@ -18,3 +18,5 @@ print(734_529.678)
 # Boolean
 print(True)
 print(False)
+
+
